@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/authentication-service.iml" filepath="$PROJECT_DIR$/.idea/authentication-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../broker-service/.idea/broker-service.iml" filepath="$PROJECT_DIR$/../broker-service/.idea/broker-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../front-end/.idea/front-end.iml" filepath="$PROJECT_DIR$/../front-end/.idea/front-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../listener-service/.idea/listener-service.iml" filepath="$PROJECT_DIR$/../listener-service/.idea/listener-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../logger-service/.idea/logger-service.iml" filepath="$PROJECT_DIR$/../logger-service/.idea/logger-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mail-service/.idea/mail-service.iml" filepath="$PROJECT_DIR$/../mail-service/.idea/mail-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project/.idea/project.iml" filepath="$PROJECT_DIR$/../project/.idea/project.iml" />
+    </modules>
+  </component>
+</project>
